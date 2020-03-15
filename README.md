@@ -1,6 +1,6 @@
 # Angular9WeatherWebapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4. It is a web app created mainly to assess use of design patterns and logical layers in code.
 
 ## Development server
 
